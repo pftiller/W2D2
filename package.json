@@ -1,0 +1,23 @@
+{
+  "name": "server-w2d2",
+  "version": "1.0.0",
+  "description": "Creating local server to host salary calulator app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pftiller/W2D2.git"
+  },
+  "author": "Paul Tiller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pftiller/W2D2/issues"
+  },
+  "homepage": "https://github.com/pftiller/W2D2#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
